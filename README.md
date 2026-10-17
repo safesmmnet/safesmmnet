@@ -20,6 +20,7 @@ Founder of **[SafeSMM](https://safesmm.net)**, an SMM panel for resellers and ag
 ### Contact
 
 Telegram: [@SafeSMM_Admin](https://t.me/SafeSMM_Admin)
+
 ### Code examples
 
-PHP and Python examples for the SafeSMM API are coming soon in this profile.
+PHP and Python examples for the SafeSMM API: https://github.com/safesmmnet/safesmm-api-examples
